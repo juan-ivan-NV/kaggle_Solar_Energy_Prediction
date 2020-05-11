@@ -42,7 +42,8 @@ Teorically the best model trained was the CatBoostRegressor with MSE = 5996.8706
 
 Next step H2O.ai Acuarium dashboard tests:
 
-We can see the image [H2O image](wasexp9.png)
+We can see the image 
+![H2O Image](Datasets/exp9.png)
 1.- Loading both files generated stage 1.
 2.- Selecting "train4.csv" to train the model, the target column is "Radiation"
 3.- Selecting "test4.csv" to make predictions, this dataset does not contai "Radiation" column
